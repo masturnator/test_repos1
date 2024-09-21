@@ -3,3 +3,5 @@ for i in range(6):
 print('banana')
 
 print('orange')
+
+print('apple')
